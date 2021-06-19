@@ -1,7 +1,6 @@
 ### To Do List
 <p>
-<img src="https://github.com/vivekdamani/ToDo-Android-App/blob/master/to-do%20icon.jpeg" width="400px"><br>This application is a swift medium to connect college canteen with staff and students of college. Users can login to the app and have a personalized experience.The app allows all the users to order food and get delieverd at their location with tracking option available for the user for their order.Canteen admin can also add and edit different food items of canteen.
-
+<img src="https://github.com/vivekdamani/ToDo-Android-App/blob/master/to-do%20icon.jpeg" width="400px"><br>This application is to keep a track of things you need to do and tick them once they are done. You can even easily edit and delete thing to do in your list.
 <p>
 
 
